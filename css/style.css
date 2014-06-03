@@ -966,7 +966,8 @@ section * {
   }
 }
 .header-10-sub .background {
-  background-image: url('../startup-files/img/header/gerro.jpg');
+  /*background-image: url('../startup-files/img/header/gerro.jpg');*/
+  background: #111;
   opacity: 20;
   filter: alpha(opacity=4000);
   opacity: 0.4;
